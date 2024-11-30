@@ -3,4 +3,5 @@
 ## faster RCNN을 활용한 폐렴 감지 
 deep learning with pytorch
 
-![Uploading img1.PNG…]()
+![My Image](img1.PNG)
+
